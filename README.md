@@ -1,5 +1,3 @@
-
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0DF205&size=35&center=true&vCenter=true&width=1000&lines=Hello!;Very+welcome+to+my+Github+page!;Feel+free!)](https://git.io/typing-svg)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Miguelnapolitano&bg_color=010a01&color=078c03&line=065b13&point=0df205&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -23,6 +21,10 @@
   <img align="center" alt="CSS-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align="center" alt="PostgreSQL-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
   <img align="center" alt="ExpressJS-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-  <img align="center" alt="Python-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">          
+  <img align="center" alt="Python-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Python-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div> 
+
+
+<img align="center" alt="Python-icon" height="150" width="50%" src="https://i.gifer.com/CXaU.gif"> 
           
