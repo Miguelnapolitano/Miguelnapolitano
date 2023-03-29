@@ -1,3 +1,8 @@
+<h1 align="center">MIGUEL FELIPE NAPOLITANO</h1>
+<h2 align="center" style="color: #0DF205;" >WEB DEVELOPER</h2>
+<br/>
+
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0DF205&size=35&center=true&vCenter=true&width=1000&lines=Hello!;Very+welcome+to+my+Github+page!;Feel+free!)](https://git.io/typing-svg)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Miguelnapolitano&bg_color=010a01&color=078c03&line=065b13&point=0df205&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
