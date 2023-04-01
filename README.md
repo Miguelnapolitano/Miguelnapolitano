@@ -5,6 +5,14 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0DF205&size=35&center=true&vCenter=true&width=1000&lines=Hello!;Very+welcome+to+my+Github+page!;Feel+free!)](https://git.io/typing-svg)
 
+<br/>
+
+<div>
+  Empregado público em transição de carreira para Desenvolvedor Full-Stack, possuo domínio das tecnologias HTML, CSS, JavaScript, TypeScript, React, NodeJS, Express, SQL, PostgreeSQL e TypeORM com as quais desenvolvi mais de 10 projetos. Além do uso contínuo de metodologias ágeis tais como Scrum e Kanban e versionamento no GitHub, habilidades estas que agregaram à minha experiência como Monitor de Ensino para suporte a alunos desenvolvedores, com resolução de bugs em códigos, incluindo conversação, leitura e escrita em inglês.
+</div>
+
+<br/>
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Miguelnapolitano&bg_color=010a01&color=078c03&line=065b13&point=0df205&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">  
