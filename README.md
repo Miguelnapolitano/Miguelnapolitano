@@ -8,20 +8,15 @@
 ##
 
 <div>
-  Empregado público em transição de carreira para Desenvolvedor Full-Stack, possuo domínio das tecnologias HTML, CSS, JavaScript, TypeScript, React, NodeJS, Express, SQL, PostgreeSQL e TypeORM com as quais desenvolvi mais de 10 projetos. Além do uso contínuo de metodologias ágeis tais como Scrum e Kanban e versionamento no GitHub, habilidades estas que agregaram à minha experiência como Monitor de Ensino para suporte a alunos desenvolvedores, com resolução de bugs em códigos, incluindo conversação, leitura e escrita em inglês.
-</div>
+  I'm a full-stack web development student looking for an opportunity to apply and improve my knowledge in the field. I always seek to stay updated with market trends and best practices.
 
-##
+In my profile, you'll find personal projects and works developed during my studies, in which I've applied the best development practices and patterns, as well as implemented efficient and scalable solutions.
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Miguelnapolitano&bg_color=010a01&color=078c03&line=065b13&point=0df205&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+My goal is to participate in challenging projects, collaborate with other developers, and contribute to the development of solutions that have a positive impact on people's lives.
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Miguelnapolitano&show_icons=true&count_private=true&hide_border=true&title_color=0DF205&icon_color=0DF205&text_color=038C3E&bg_color=0d1117" alt="Miguel Felipe Napolitano github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguelnapolitano&layout=compact&hide_border=true&title_color=0DF205&text_color=038C3E&bg_color=0d1117" />
-</div>
+I'm available to discuss how I can contribute to your team or project. If you want to get in touch, feel free to send me a message here or on one of my social media channels.
 
-<div align="center"> 
-  <a href="https://www.linkedin.com/in/miguel-felipe-napolitano-70407776/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+Thank you for visiting my profile, and I hope we can work together soon!
 </div>
 
 ## Technologies:
@@ -40,5 +35,17 @@
   <img align="center" alt="Python-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Django-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
   <img align="center" alt="Angular-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg">
+</div>
+
+##
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Miguelnapolitano&bg_color=010a01&color=078c03&line=065b13&point=0df205&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Miguelnapolitano&show_icons=true&count_private=true&hide_border=true&title_color=0DF205&icon_color=0DF205&text_color=038C3E&bg_color=0d1117" alt="Miguel Felipe Napolitano github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguelnapolitano&layout=compact&hide_border=true&title_color=0DF205&text_color=038C3E&bg_color=0d1117" />
+</div>
+
+<div align="center"> 
+  <a href="https://www.linkedin.com/in/miguel-felipe-napolitano-70407776/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 </div> 
-          
