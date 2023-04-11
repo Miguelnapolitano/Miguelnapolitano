@@ -14,7 +14,7 @@ In my profile, you'll find personal projects and works developed during my studi
 
 My goal is to participate in challenging projects, collaborate with other developers, and contribute to the development of solutions that have a positive impact on people's lives.
 
-I'm available to discuss how I can contribute to your team or project. If you want to get in touch, feel free to send me a message here or on one of my social media channels.
+I'm available to discuss how I can contribute to your team or project. If you want to get in touch, feel free to send me a message on my e-mail or LinkedIn.
 
 Thank you for visiting my profile, and I hope we can work together soon!
 </div>
