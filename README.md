@@ -19,6 +19,10 @@ I'm available to discuss how I can contribute to your team or project. If you wa
 Thank you for visiting my profile, and I hope we can work together soon!
 </div>
 
+<div align="center"> 
+  <a href="https://www.linkedin.com/in/miguel-felipe-napolitano-70407776/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+</div> 
+
 ## Technologies:
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="JavaScript-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
