@@ -8,9 +8,11 @@
 ##
 
 <div>
-  As a web developer, I'm currently applying my skills working in an agile team on a large web application at SEMEQ.
-  Added to this, I work as a volunteer at Lacrei Saúde.
-  At the same time, I am studying a Bachelor's degree in Information Technology at Univesp, which I will finish in June 2025.
+  As a web developer, I'm currently applying my skills working in an agile team on a large web application at SEMEQ.       
+  
+  Added to this, I work as a volunteer at Lacrei Saúde.    
+  
+  At the same time, I am studying a Bachelor's degree in Information Technology at Univesp, which I will finish in June 2025.    
 
   I love development because, every day I can learn new things and more and more, Socrates makes sense when he said “I only know that I know nothing”.
 </div>
